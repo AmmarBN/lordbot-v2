@@ -3,7 +3,7 @@
 <a href="https://github.com/AmmarBN/lordbot-v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AmmarBN/lordbot-v2?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/AmmarBN/lordbot-v2/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/AmmarBN/lordbot-v2?label=Watchers&color=green&style=flat-square"></a>
 <a href="https://github.com/AmmarBN/lordbot-v2/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/AmmarBN/lordbot-v2?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/AmmarBN/lordbot-v2/raphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/AmmarBN/lordbot-v2?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/BochilGaming/games-wabot/raphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/BochilGaming/games-wabot?label=Contributors&color=blue&style=flat-square"></a>
 <a href="https://github.com/AmmarBN/lordbot-v2/issues"><img title="Issues" src="https://img.shields.io/github/issues/AmmarBN/lordbot-v2?label=Issues&color=success&style=flat-square"></a>
 <a href="https://github.com/AmmarBN/lordbot-v2/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/AmmarBN/lordbot-v2?label=Issues&color=red&style=flat-square"></a>
 <a href="https://github.com/AmmarBN/lordbot-v2/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/AmmarBN/lordbot-v2?label=PullRequest&color=success&style=flat-square"></a>
