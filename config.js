@@ -55,7 +55,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'Copyright Lord Botz'
-global.author = 'ucapan','Lord Botz Best Bot\nCopyright Lord Botz for ©AmmarBN\n*────「 Big Thx For 」────*\n*Allah SWT*\n*Nurutomo*\n*Ariffb*\n*BochilGaming*\n*AmmarBN*\n*games-wabot*\n*wabot-aq*\n*Adiwajshing*\n*Baileys*'
+global.author = 'Lord Botz Best Bot\nCopyright Lord Botz for ©AmmarBN\n*────「 Big Thx For 」────*\n*Allah SWT*\n*Nurutomo*\n*Ariffb*\n*BochilGaming*\n*AmmarBN*\n*games-wabot*\n*wabot-aq*\n*Adiwajshing*\n*Baileys*'
 
 global.multiplier = 39 // The higher, The harder levelup
 
