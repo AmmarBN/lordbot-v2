@@ -164,10 +164,27 @@ let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isR
       break
     default:
       if (!/[01]/.test(command)) return m.reply(`
-List option: welcome | delete | public | antilink | antidelete | antitoxic | autolevelup | detect | document | whitelistmycontacts | restrict | nyimak | autoread | pconly | gconly | swonly
+╭──「 List Option 」──╮
+├㊣welcome
+├㊣delete
+├㊣public
+├㊣antilink
+├㊣antidelete
+├㊣antitoxic
+├㊣autolevelup
+├㊣detect
+├㊣document
+├㊣whitelistmycontact
+├㊣restrict
+├㊣nyimak
+├㊣autoread
+├㊣pconly
+├㊣gconly
+├㊣swonly
+╰─────────────────
 Contoh:
-${usedPrefix}enable welcome
-${usedPrefix}disable welcome
+#enable welcome
+#disable welcome
 `.trim())
       throw false
   }
