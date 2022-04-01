@@ -42,6 +42,7 @@ global.APIs = { // API Prefix
   pencarikode: 'https://pencarikode.xyz',
   hardianto: 'http://hardianto-chan.herokuapp.com',
   LeysCoder: 'https://leyscoders-api.herokuapp.com'
+  mely: 'https://melcanz.com'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
@@ -51,6 +52,7 @@ global.APIKeys = { // APIKey Here
   'https://pencarikode.xyz': 'pais',
   'http://hardianto-chan.herokuapp.com': 'hardianto',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
+  'https://melcanz.com: 'GVQjlc7H' //my private api key//
 }
 
 // Sticker WM
